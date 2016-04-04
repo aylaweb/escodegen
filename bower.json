@@ -4,7 +4,7 @@
     "dependencies": {
         "esprima": "https://github.com/jquery/esprima.git#~2.7",
         "estraverse": "https://github.com/estools/estraverse.git",
-        "esutils": "https://github.com/esutils/estraverse.git",
+        "esutils": "https://github.com/esutils/esutils.git",
         "optionator": "https://github.com/gkz/optionator.git"
     },
     "ignore": [
